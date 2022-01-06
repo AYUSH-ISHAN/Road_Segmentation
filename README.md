@@ -1,5 +1,8 @@
 # Road_Segmemtation
 
+
+# Draw the flowchart of proposed idea on draw.io (on which you draw on Starcraft project). 
+
 # Running FCNs code in Colab
 
 # Try to get output from the FCN and U-NETS and also try other models also. 
