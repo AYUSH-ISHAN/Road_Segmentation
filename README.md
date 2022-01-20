@@ -17,10 +17,22 @@ Approaches:
 # Introduction:
 
 # Model Architecture:
-
+<p align = "center">
 <img src ="./architecture.jpg" align = "center"/>
+</p>
+<br>
+In the above shown model, the pretrained VGG-16 networks are used as encoder. The VGG_16 was trained on pretrained on ImageNet for classification. The 
+pretrained weights can be found on the link - <a href = "https://s3-us-west-1.amazonaws.com/udacity-selfdrivingcar/vgg.zip">Udacity Self Driving Car</a>
 
 # Files and Folders:
+
+<ol>
+  <li><B>Dataset folder : </B>This folder contains the dataset.</li>
+  <li><B>Masked Dataset folder : </B>This folder has the dataset in the masked form. The masking was done manually.</li>
+  <li><B>Final Showdown folder : </B>This folder has final outputs or predictions by the model.</li>
+  <li><B>FCN folder : </B>This folder has all the codes for the model.</li>
+</ol>
+  
 
 # Results on sample images:
 
