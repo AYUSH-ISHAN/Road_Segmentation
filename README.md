@@ -1,9 +1,5 @@
 # Road_Segmemtation
 
-
-
-# Running FCNs code in Colab
-
 # Try to get output from the FCN and U-NETS and also try other models also. 
 
 
