@@ -22,7 +22,7 @@ Approaches:
 
 # Model Architecture:
 
-<img src ="./architecure.jpg"/>
+<img src ="./architecture.jpg"/>
 
 # Files and Folders:
 
