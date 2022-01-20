@@ -1,7 +1,6 @@
 # Road_Segmemtation
 
 
-# Draw the flowchart of proposed idea on draw.io (on which you draw on Starcraft project). 
 
 # Running FCNs code in Colab
 
@@ -22,6 +21,8 @@ Approaches:
 # Introduction:
 
 # Model Architecture:
+
+<img src ="./architecure.jpg"/>
 
 # Files and Folders:
 
