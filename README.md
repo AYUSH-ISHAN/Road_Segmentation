@@ -22,7 +22,7 @@ Approaches:
 
 # Model Architecture:
 
-<img src ="./architecture.jpg"/>
+<img src ="./architecture.jpg" align = "center"/>
 
 # Files and Folders:
 
