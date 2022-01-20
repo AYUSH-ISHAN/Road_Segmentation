@@ -34,8 +34,6 @@ Covert it to TENSORFLOW VERSION :---->   2
 
 
 def architecture(output_layer_3, output_layer_4, output_layer_7, classes = CLASSES):
-  
-    '''Try to introduce the l2_regularization layer'''
 
     vgg_layer7_logits = Conv2D(
         classes, kernel_size=1,
