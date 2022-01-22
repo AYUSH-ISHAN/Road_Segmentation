@@ -43,54 +43,54 @@ pretrained weights can be found on the link - <a href = "https://s3-us-west-1.am
     <td><img src = "./Final_Showdown/umm_road_1.png" height = "150", width = "250"/></td>
  </tr>
   <tr>
-    <td><img src = "./dataset/umm_road_5.png" height = "100", width = "100"/></td>
-    <td><img src = "./masked_dataset/umm_road_5.png" height = "100", width = "100"/></td>
-    <td><img src = "./Final_Showdown/umm_road_5.png" height = "100", width = "100"/></td>
+    <td><img src = "./dataset/umm_road_5.png" height = "150", width = "250"/></td>
+    <td><img src = "./masked_dataset/umm_road_5.png" height = "150", width = "250"/></td>
+    <td><img src = "./Final_Showdown/umm_road_5.png" height = "150", width = "250"/></td>
  </tr>
   <tr>
-    <td><img src = "./dataset/umm_road_10.png" height = "100", width = "100"/></td>
-    <td><img src = "./masked_dataset/umm_road_10.png"/ height = "100", width = "100"></td>
-    <td><img src = "./Final_Showdown/umm_road_10.png" height = "100", width = "100"/></td>
+    <td><img src = "./dataset/umm_road_10.png" height = "150", width = "250"/></td>
+    <td><img src = "./masked_dataset/umm_road_10.png"/ height = "150", width = "250"></td>
+    <td><img src = "./Final_Showdown/umm_road_10.png" height = "150", width = "250"/></td>
  </tr>
   <tr>
-    <td><img src = "./dataset/umm_road_20.png"/ height = "100", width = "100"></td>
-    <td><img src = "./masked_dataset/umm_road_20.png" height = "100", width = "100"/></td>
-    <td><img src = "./Final_Showdown/umm_road_20.png" height = "100", width = "100"/></td>
+    <td><img src = "./dataset/umm_road_20.png"/ height = "150", width = "250"></td>
+    <td><img src = "./masked_dataset/umm_road_20.png" height = "150", width = "250"/></td>
+    <td><img src = "./Final_Showdown/umm_road_20.png" height = "150", width = "250"/></td>
  </tr>
   <tr>
-    <td><img src = "./dataset/umm_road_40.png" height = "100", width = "100"/></td>
-    <td><img src = "./masked_dataset/umm_road_40.png" height = "100", width = "100"/></td>
-    <td><img src = "./Final_Showdown/umm_road_40.png" height = "100", width = "100"/></td>
+    <td><img src = "./dataset/umm_road_40.png" height = "150", width = "250"/></td>
+    <td><img src = "./masked_dataset/umm_road_40.png" height = "150", width = "250"/></td>
+    <td><img src = "./Final_Showdown/umm_road_40.png" height = "150", width = "250"/></td>
  </tr>
   <tr>
-    <td><img src = "./dataset/umm_road_30.png" height = "100", width = "100"/></td>
-    <td><img src = "./masked_dataset/umm_road_30.png" height = "100", width = "100"/></td>
-    <td><img src = "./Final_Showdown/umm_road_30.png" height = "100", width = "100"/></td>
+    <td><img src = "./dataset/umm_road_30.png" height = "150", width = "250"/></td>
+    <td><img src = "./masked_dataset/umm_road_30.png" height = "150", width = "250"/></td>
+    <td><img src = "./Final_Showdown/umm_road_30.png" height = "150", width = "250"/></td>
  </tr>
   <tr>
-    <td><img src = "./dataset/umm_road_1.png" height = "100", width = "100"/></td>
-    <td><img src = "./masked_dataset/umm_road_1.png" height = "100", width = "100"/></td>
-    <td><img src = "./Final_Showdown/umm_road_1.png" height = "100", width = "100"/></td>
+    <td><img src = "./dataset/umm_road_1.png" height = "150", width = "250"/></td>
+    <td><img src = "./masked_dataset/umm_road_1.png" height = "150", width = "250"/></td>
+    <td><img src = "./Final_Showdown/umm_road_1.png" height = "150", width = "250"/></td>
  </tr>
   <tr>
-    <td><img src = "./dataset/forest_dataset/umm_road_4.png" height = "100", width = "100"/></td>
-    <td><img src = "./masked_dataset/forest_masked/umm_road_4.png" height = "100", width = "100"/></td>
-    <td><img src = "./Final_Showdown/forest_final/umm_road_4.png" height = "100", width = "100"/></td>
+    <td><img src = "./dataset/forest_dataset/umm_road_4.png" height = "150", width = "250"/></td>
+    <td><img src = "./masked_dataset/forest_masked/umm_road_4.png" height = "150", width = "250"/></td>
+    <td><img src = "./Final_Showdown/forest_final/umm_road_4.png" height = "150", width = "250"/></td>
  </tr>
   <tr>
-    <td><img src = "./dataset/forest_dataset/umm_road_6.png" height = "100", width = "100"/></td>
-    <td><img src = "./masked_dataset/forest_masked/umm_road_6.png" height = "100", width = "100"/></td>
-    <td><img src = "./Final_Showdown/forest_final/umm_road_6.png" height = "100", width = "100"/></td>
+    <td><img src = "./dataset/forest_dataset/umm_road_6.png" height = "150", width = "250"/></td>
+    <td><img src = "./masked_dataset/forest_masked/umm_road_6.png" height = "150", width = "250"/></td>
+    <td><img src = "./Final_Showdown/forest_final/umm_road_6.png" height = "150", width = "250"/></td>
  </tr>
   <tr>
-    <td><img src = "./dataset/forest_dataset/umm_road_66.png" height = "100", width = "100"/></td>
-    <td><img src = "./masked_dataset/forest_masked/umm_road_66.png" height = "100", width = "100"/></td>
-    <td><img src = "./Final_Showdown/forest_final/umm_road_66.png" height = "100", width = "100"/></td>
+    <td><img src = "./dataset/forest_dataset/umm_road_66.png" height = "150", width = "250"/></td>
+    <td><img src = "./masked_dataset/forest_masked/umm_road_66.png" height = "150", width = "250"/></td>
+    <td><img src = "./Final_Showdown/forest_final/umm_road_66.png" height = "150", width = "250"/></td>
  </tr>
   <tr>
-    <td><img src = "./dataset/forest_dataset/umm_road_88.png" height = "100", width = "100"/></td>
-    <td><img src = "./masked_dataset/forest_masked/umm_road_88.png" height = "100", width = "100"/></td>
-    <td><img src = "./Final_Showdown/forest_final/umm_road_88.png" height = "100", width = "100"/></td>
+    <td><img src = "./dataset/forest_dataset/umm_road_88.png" height = "150", width = "250"/></td>
+    <td><img src = "./masked_dataset/forest_masked/umm_road_88.png" height = "150", width = "250"/></td>
+    <td><img src = "./Final_Showdown/forest_final/umm_road_88.png" height = "150", width = "250"/></td>
  </tr>
   
  </table>
