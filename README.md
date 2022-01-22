@@ -38,9 +38,9 @@ pretrained weights can be found on the link - <a href = "https://s3-us-west-1.am
 
 <table>
   <tr>
-    <td><img src = "./dataset/umm_road_1.png" height = "100", width = "100"/></td>
-    <td><img src = "./masked_dataset/umm_road_1.png" height = "100", width = "100"/></td>
-    <td><img src = "./Final_Showdown/umm_road_1.png" height = "100", width = "100"/></td>
+    <td><img src = "./dataset/umm_road_1.png" height = "150", width = "200"/></td>
+    <td><img src = "./masked_dataset/umm_road_1.png" height = "150", width = "200"/></td>
+    <td><img src = "./Final_Showdown/umm_road_1.png" height = "150", width = "200"/></td>
  </tr>
   <tr>
     <td><img src = "./dataset/umm_road_5.png" height = "100", width = "100"/></td>
