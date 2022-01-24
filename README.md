@@ -32,7 +32,10 @@ pretrained weights can be found on the link - <a href = "https://s3-us-west-1.am
   <li><B>Final Showdown folder : </B>This folder has final outputs or predictions by the model.</li>
   <li><B>FCN folder : </B>This folder has all the codes for the model.</li>
 </ol>
-  
+
+# Installation :
+
+Go to this link to see, how to run the code --->  <a href = "">link</a>
 
 # Results on sample images:
 
