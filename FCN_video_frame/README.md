@@ -21,6 +21,6 @@ If the 'calib' directory is not there, then no need to worry. It still works !
 
 To train the model run the following command in your terminal -->
 
-        python video_train.py
+             python video_train.py
 
 You can tune the epochs and batch size in the file itself.
