@@ -35,7 +35,7 @@ pretrained weights can be found on the link - <a href = "https://s3-us-west-1.am
 
 # Installation :
 
-Go to this link to see, how to train and predict from the model --->  <a href = "https://github.com/AYUSH-ISHAN/Road_Segmentation/tree/main/FCN#:~:text=README.md-,Training%20%3A,-Before%20starting%20the">For images</a> and <a href = "https://github.com/AYUSH-ISHAN/Road_Segmentation/blob/main/FCN_video_frame/README.md#:~:text=Training%20the%20model%20-%3E">for Videos.</a>
+Go to this link to see, how to train and predict from the model --->  <a href = "https://github.com/AYUSH-ISHAN/Road_Segmentation/tree/main/FCN#training-">For images</a> and <a href = "https://github.com/AYUSH-ISHAN/Road_Segmentation/blob/main/FCN_video_frame/README.md#training--">for Videos.</a>
 
 
 # Results on sample images:
