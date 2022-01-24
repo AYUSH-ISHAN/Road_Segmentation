@@ -24,3 +24,9 @@ To train the model run the following command in your terminal -->
              python video_run.py
 
 You can tune the epochs and batch size in the file itself.
+
+# Predictions: 
+
+To make the predictions, just run the following command.
+
+            python video_test.py
