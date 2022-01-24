@@ -104,3 +104,5 @@ pretrained weights can be found on the link - <a href = "https://s3-us-west-1.am
 
 
 # Results on sample videos:
+
+<img src = "./video_prediction.gif">
