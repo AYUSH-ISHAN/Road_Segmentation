@@ -57,6 +57,11 @@ Go to this link to see, how to train and predict from the model --->  <a href = 
     <td><img src = "./Final_Showdown/umm_road_5.png" height = "150", width = "250"/></td>
  </tr>
   <tr>
+    <td><img src = "./dataset/umm_road_valley.png" height = "150", width = "250"/></td>
+    <td><img src = "./masked_dataset/umm_road_valley.png"/ height = "150", width = "250"></td>
+    <td><img src = "./Final_Showdown/umm_road_valley.png" height = "150", width = "250"/></td>
+ </tr>
+  <tr>
     <td><img src = "./dataset/umm_road_10.png" height = "150", width = "250"/></td>
     <td><img src = "./masked_dataset/umm_road_10.png"/ height = "150", width = "250"></td>
     <td><img src = "./Final_Showdown/umm_road_10.png" height = "150", width = "250"/></td>
