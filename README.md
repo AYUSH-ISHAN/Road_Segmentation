@@ -4,7 +4,7 @@
 
 
 
-This repo contains the road segemntation from a high qulaity image using the various models, techniques and algorithms.
+This repo contains the road segemntation from a high quality image using the various models, techniques and algorithms.
 Changwon University Intern.
 Approaches:
 
