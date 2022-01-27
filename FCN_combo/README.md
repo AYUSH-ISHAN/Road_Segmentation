@@ -40,5 +40,5 @@ Then, again rerun the file.
 
 To predict from videos or real, just adjust some parameters <a href = "https://github.com/AYUSH-ISHAN/Road_Segmentation/blob/621e1b68aedc96cc703d4127c66e6254d69866f9/FCN_combo/combo_test.py#L10">here</a>.
 
-If you want to save the predictions of your video, then turn this <a href = "https://github.com/AYUSH-ISHAN/Road_Segmentation/blob/621e1b68aedc96cc703d4127c66e6254d69866f9/FCN_combo/combo_test.py#L6">flag</a> <B>ON<B>.<br>
+If you want to save the predictions of your video, then turn this <a href = "https://github.com/AYUSH-ISHAN/Road_Segmentation/blob/621e1b68aedc96cc703d4127c66e6254d69866f9/FCN_combo/combo_test.py#L6">flag</a> <B>ON</B>.<br>
 For simple preview turn this <B>OFF</B>
