@@ -1,11 +1,5 @@
 # Road_Segmemtation
-
-# Try to get output from the FCN and U-NETS and also try other models also. 
-
-
-
-This repo contains the road segemntation from a high quality image using the various models, techniques and algorithms.
-Changwon University Intern.
+# give a nice Introduction here.
 Approaches:
 
 1. For video perdictions , do this - >  https://github.com/lb5160482/Road-Semantic-Segmentation/
