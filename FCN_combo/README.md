@@ -8,10 +8,10 @@ Before starting the training process make sure your directory of the model looks
             │   ├── data_road
             │   │   ├── testing
             │   │   │   ├── calib
-            │   │   │   └── image_2
+            │   │   │   └── image
             │   │   └── training
             │   │       ├── calib
-            │   │       ├── gt_image_2
+            │   │       ├── sem_image
             │   │       └── image_2
             │   └── vgg
             │       └── variables
