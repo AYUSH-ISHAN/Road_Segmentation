@@ -99,7 +99,7 @@ def trainer(sess, epochs, batch_size, get_batches_fn, train_op, cross_entropy_lo
     saver.save(sess, model_dir + '/model')
     print('model saved!')
 
-def runner():
+def main_runner():
     num_classes = 2
     image_shape = (160, 576)
     if CLOUD_MODE:
@@ -155,7 +155,7 @@ if __name__ == '__main__':
     training_flag = True   # True: train the NN; False: predict with trained NN
 
     if training_flag:
-        runner()
+        main_runner()
     else:
         # use the pre-trained model to predict more images
         TEST_DATA_PATH = './data/data_road/testing/image_2'
