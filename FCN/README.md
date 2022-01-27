@@ -16,7 +16,7 @@ Before starting the training process make sure your directory of the model looks
             │       └── variables
             ├── model
             ├── __pycache__
-            └── run
+            └── image_predictions
           
 If the 'calib' directory is not there, then no need to worry. It still works !
 
