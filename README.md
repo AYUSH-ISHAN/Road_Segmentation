@@ -104,5 +104,5 @@ Go to this link to see, how to train and predict from the model --->  <a href = 
 <img src = "./video_prediction.gif">
     
 # References:
-    1. <a href = "https://github.com/JunshengFu/semantic_segmentation">Source 1</a>
-    2. <a href = "https://github.com/lb5160482/Road-Semantic-Segmentation/">Source 2</a>
+<a href = "https://github.com/JunshengFu/semantic_segmentation">Source 1</a><br>
+<a href = "https://github.com/lb5160482/Road-Semantic-Segmentation/">Source 2</a>
