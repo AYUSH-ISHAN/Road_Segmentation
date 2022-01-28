@@ -23,11 +23,12 @@ pretrained weights can be found on the link - <a href = "https://s3-us-west-1.am
   <li><B>FCN folder : </B>This folder has all the codes for the model.</li>
   <li><B>FCN_combo folder : <B>This folder contains the codes for both image and video predictions.<li>
   <li><B>Report_and_Results.pdf file : <B>This folder contains the report of the project/<li>
+  <li><B>resize_red_masking.py : <B>This file is reponsible for resizing the image and making semanted mask of it.
 </ol>
 
 # Installation :
 
-Go to this link to see, how to train and predict from the model --->  <a href = "https://github.com/AYUSH-ISHAN/Road_Segmentation/tree/main/FCN#training-">For images</a> and <a href = "https://github.com/AYUSH-ISHAN/Road_Segmentation/blob/main/FCN_video_frame/README.md#training--">for Videos.</a>
+Go to this link to see, how to train and predict from the model --->  <a href = "https://github.com/AYUSH-ISHAN/Road_Segmentation/tree/main/FCN#training-">For images</a> and <a href = "https://github.com/AYUSH-ISHAN/Road_Segmentation/tree/main/FCN_combo#training-">for Videos and Image both predictions.</a>
 
 
 # Results on sample images:
