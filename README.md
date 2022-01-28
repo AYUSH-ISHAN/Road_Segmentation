@@ -21,9 +21,9 @@ pretrained weights can be found on the link - <a href = "https://s3-us-west-1.am
   <li><B>Masked Dataset folder : </B>This folder has the dataset in the masked form. The masking was done manually.</li>
   <li><B>Final Showdown folder : </B>This folder has final outputs or predictions by the model.</li>
   <li><B>FCN folder : </B>This folder has all the codes for the model.</li>
-  <li><B>FCN_combo folder : <B>This folder contains the codes for both image and video predictions.<li>
-  <li><B>Report_and_Results.pdf file : <B>This folder contains the report of the project/<li>
-  <li><B>resize_red_masking.py : <B>This file is reponsible for resizing the image and making semanted mask of it.<li>
+  <li><B>FCN_combo folder : <B>This folder contains the codes for both image and video predictions.</li>
+  <li><B>Report_and_Results.pdf file : <B>This folder contains the report of the project.</li>
+  <li><B>resize_red_masking.py : <B>This file is reponsible for resizing the image and making semanted mask of it.</li>
 </ol>
 
 # Installation :
