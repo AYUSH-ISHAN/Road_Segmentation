@@ -1,14 +1,9 @@
 # Road_Segmemtation
-# give a nice Introduction here.
-Approaches:
-
-1. For video perdictions , do this - >  https://github.com/lb5160482/Road-Semantic-Segmentation/
-2. Pretrained Encoder and Decoder Netwrok Part. COMPLETED link: - https://github.com/JunshengFu/semantic_segmentation <br>
-3. If time permits try out various models which are used here: https://github.com/JunHyeok96/Road-Segmentation
-4. Also look at the papers metioned in them
-
 
 # Introduction:
+
+In recent years, growing research interest is witnessed in automated driving systems (ADS) and advanced driverassistance systems (ADAS). As one of the essential modules, road segmentation perceives the surroundings, detects the drivable region and builds an occupancy map. A drivable region is a connected road surface area that is not occupied by any vehicles, pedestrians, cyclists or other obstacles. In the ADS workflow, road segmentation contributes to other perception modules and generates an occupancy map for planning modules. Therefore, an accurate and efficient road segmentation is necessary. Camera-based road segmentation has been investigated for decades since cameras generate high-resolution frames frequently and they are cost effective. Traditional computer vision algorithms employed manually defined features such as edges and histogram for road segmentation. Those features, however, worked on limited situations and were difficult to extend to new scenarios. Convolutional neural network (CNN) based algorithms attracted research interest in recent years. By implementing massive convolutional kernels to a deep neural network, CNNs are capable to handle various driving scenarios. Existing CNN based road segmentation algorithms such as FCN, SegNet, StixelNet, Up-conv-Poly and MAP generated a precise drivable region but required large computational. Table II presents their performance on KITTI road benchmark  as well as their parameter counts, floating-point operations and running time for each frame processing. Recent research proposed several efficient networks and network structures such as MobileNet and Xception.
+So, here, is the road segmentation work on basis of FCN.
 
 # Model Architecture:
 <p align = "center">
@@ -104,9 +99,10 @@ Go to this link to see, how to train and predict from the model --->  <a href = 
   
  </table>
 
-
-
-
 # Results on sample videos:
 
 <img src = "./video_prediction.gif">
+    
+# References:
+    1. <a href = "https://github.com/JunshengFu/semantic_segmentation">Source 1</a>
+    2. <a href = "https://github.com/lb5160482/Road-Semantic-Segmentation/">Source 2</a>
